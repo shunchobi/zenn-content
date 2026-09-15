@@ -1,0 +1,6 @@
+{
+  "name": "zenn-content",
+  "private": true,
+  "scripts": { "preview": "zenn preview" },
+  "devDependencies": { "zenn-cli": "^0.2.0" }
+}
