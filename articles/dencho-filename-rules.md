@@ -2,7 +2,7 @@
 title: "電子帳簿保存法のファイル名、結局どう付ければいい？ 国税庁の一問一答から決め方をまとめた"
 emoji: "🗂️"
 type: "idea"
-topics: ["電子帳簿保存法", "経理", "インボイス", "フリーランス", "個人事業主"]
+topics: ["accounting", "freelance"]
 published: false
 ---
 

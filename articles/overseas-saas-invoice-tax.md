@@ -2,7 +2,7 @@
 title: "海外の Web サービス代にインボイスが無い。経費にはなるが、消費税はどうなる？ 少額特例で整理する"
 emoji: "🧾"
 type: "idea"
-topics: ["インボイス", "消費税", "フリーランス", "個人事業主", "経理"]
+topics: ["accounting", "freelance"]
 published: false
 ---
 

@@ -2,7 +2,7 @@
 title: "電子帳簿保存法の索引簿を Excel で作る。列の決め方と、範囲検索が効かなくなる入力ミス"
 emoji: "📒"
 type: "idea"
-topics: ["電子帳簿保存法", "Excel", "経理", "フリーランス", "個人事業主"]
+topics: ["accounting", "freelance"]
 published: false
 ---
 
