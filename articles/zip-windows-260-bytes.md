@@ -3,7 +3,7 @@ title: "日本語ファイル名の ZIP が Windows のエクスプローラー�
 emoji: "🗜️"
 type: "tech"
 topics: ["JavaScript", "TypeScript", "Windows", "ZIP", "UTF8"]
-published: true
+published: false
 ---
 
 ブラウザの中で複数のファイルに日本語の名前を付け、ZIP にして渡すツールを作っています。その過程で、「名前が長いファイルが 1 つ混ざるだけで、Windows のエクスプローラーが ZIP 全体を開けなくなる」という仕様を知り、名前を切る処理を文字数からバイト数に直しました。

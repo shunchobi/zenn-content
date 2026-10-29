@@ -3,7 +3,7 @@ title: "tesseract.js をブラウザで自前ホストして、画像 PDF を外
 emoji: "🔍"
 type: "tech"
 topics: ["JavaScript", "OCR", "tesseract", "pdfjs", "Cloudflare"]
-published: true
+published: false
 ---
 
 請求書や領収書の PDF をブラウザの中だけで処理するサービスを作っています。文字が埋め込まれた PDF は pdf.js で読めますが、スマホで撮った写真やスキャンの PDF には文字のデータがありません。そこで tesseract.js をブラウザで動かし、worker・wasm・言語データをすべて自分のサーバーに置いて、画像を外部に送らずに OCR する形にしました。
